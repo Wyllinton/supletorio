@@ -1,0 +1,19 @@
+a: ¿Qué salida produce el siguiente código?
+
+Solucion = [4, 3, 2, 1]
+
+b: ¿Qué sucede al ejecutar el siguiente código?
+
+Solución = ConcurrentModificationException
+
+c: Qué sucede al ejecutar el siguiente código?
+//en el método main falta el static
+[4, 3, 2, 1]
+
+d: ¿Qué salida produce el siguiente código?
+//Faltaba el método main
+Solución = 5 30 10
+
+e: ¿Qué salida produce el siguiente código?
+
+Solución = ConcurrentModificationException
