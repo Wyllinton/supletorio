@@ -1,11 +1,10 @@
 # supletorio
 
-Descripciín basisca de su Proyecto de POO ...
+Repositorio del supletorio de la asignatura de Estructura de datos, sobre colecciones, genéricos y recursividad en JAVA
 
 # Autores
 
-- Autor 1
-- Autor 2
+Willinton Vergara Cataño
 
 # Herramientas
 
